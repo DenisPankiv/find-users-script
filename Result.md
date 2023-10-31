@@ -1,2 +1,2 @@
-![Screenshot_7](https://github.com/DenisPankiv/find-users-script/assets/78309206/fe029833-b1c3-460f-8f6a-503915a5fe09)
-![Screenshot_9](https://github.com/DenisPankiv/find-users-script/assets/78309206/76f2001c-6590-43e0-bdf7-cbd804c05cc5)
+![Screenshot_10](https://github.com/DenisPankiv/find-users-script/assets/78309206/bb2d93e8-4a17-4517-9501-455238094ac9)
+![Screenshot_11](https://github.com/DenisPankiv/find-users-script/assets/78309206/833f2dff-89dc-480e-a85f-5a27feab34d8)
