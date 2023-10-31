@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep '/bin/bash' /etc/passwd | cut -d: -f1 > password
+grep '/bin/bash' /etc/passwd | cut -d: -f1 > password.txt
